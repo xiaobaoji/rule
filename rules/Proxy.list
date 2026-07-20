@@ -186,7 +186,7 @@ DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
 #PT站
-DOMAIN-SUFFIX,fsm.name
+DOMAIN-SUFFIX,m-team.cc
 
 # 其他网站
 DOMAIN-SUFFIX,googleapis.com
